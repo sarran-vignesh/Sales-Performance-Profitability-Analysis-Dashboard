@@ -1,4 +1,4 @@
-# Sales--Analysis
+# Sales Performance & Profitability Analysis Dashboard
 
 A comprehensive Sales Analysis Power BI Dashboard designed to provide actionable insights into sales performance, product profitability,customer trends, and geographic patterns.
 This project demonstrates strong analytical capability, data modeling expertise, and dashboard-building proficiency.
